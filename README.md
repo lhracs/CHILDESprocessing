@@ -8,7 +8,7 @@ candidacy exam in March 2018. The primary focus is cleaning and extracting speci
 ### List of scripts and what they do:
 
 **ChangeFileNames.py**<br/>
-Prepends [CHAT](https://talkbank.org/manuals/CHAT.pdf) file with the name of the corpus it comes from for easier organization.
+Prepends CHAT file with the name of the corpus it comes from for easier organization.
 
 **ChildInfo.py**<br/>
 Extracts participant information from clean corpus files.
